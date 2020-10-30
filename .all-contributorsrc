@@ -1,7 +1,7 @@
 {
   "files": [
     "README.md",
-    "_includes/authors.md"
+    "_includes/authors.html"
   ],
   "projectName": "test-module",
   "projectOwner": "hsf-training",

@@ -16,6 +16,6 @@ FIXME: home page introduction
 
 ## Authors
 
-{% include authors.md %}
+{% include authors.html %}
 
 {% include links.md %}
