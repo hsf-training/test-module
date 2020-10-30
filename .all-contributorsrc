@@ -9,6 +9,15 @@
   "repoHost": "https://github.com",
   "skipCi": true,
   "contributors": [
+    {
+      "login": "smeehan12",
+      "name": "Samuel Meehan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13018253?v=4",
+      "profile": "https://github.com/smeehan12",
+      "contributions": [
+        "design"
+      ]
+    }
   ],
   "contributorsPerLine": 7
 }
