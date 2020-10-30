@@ -1,5 +1,3 @@
-# For testing only
-
 <!-- all-contributors-list:start - do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -13,4 +11,3 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-

@@ -14,4 +14,8 @@ FIXME: home page introduction
 > FIXME
 {: .prereq}
 
+## Authors
+
+{% include authors.md %}
+
 {% include links.md %}
