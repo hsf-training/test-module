@@ -26,6 +26,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "klieret",
+      "name": "Kilian Lieret",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13602468?v=4",
+      "profile": "https://www.lieret.net",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
